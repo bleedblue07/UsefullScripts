@@ -1,15 +1,15 @@
-## Extract all the contents of a specifiled path of ZIP file 
+## Create a ZIP file of any directory
 
-This script will Extract all the contents of a specifiled path of ZIP file 
+This script will create the ZIP file of specified direstory path. 
 
 #### Note :
 
-Name of the extracted ZIP folder will be auto resolved to the ZIP file specified.
+Name of the Zip file will be auto resolved to the last directory of the path specified.
 
 
 ## Usage
 
 ```bash
-cd zip_extractor
-python zip_extractor.py
+cd zip_creator
+python zip_creator.py
 ```
